@@ -1,1 +1,3 @@
-This is a JS file
+(function($) {
+    // Your code here.
+})(jQuery);
